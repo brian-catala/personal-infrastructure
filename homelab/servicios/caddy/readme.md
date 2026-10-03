@@ -8,6 +8,4 @@ Fase 2: Añadir el repositorio de Caddy
 
 Fase 3: Instalar Caddy
 
-Fase 4: Verificar estado del docker
-
-Fase 5: Descargamos APP bitwarden de Escritorio en Windows
+***continuar despues de pi-hole
